@@ -41,6 +41,12 @@ Listed in (somewhat) chronological order, with some subdivisions by topic:
 - [S. Kullback & RA Leibler. On information and sufficiency. The annals of mathematical statistics. 1951 22(1):79-86](https://www.projecteuclid.org/download/pdf_1/euclid.aoms/1177729694)
 - [R. J. Williams, Simple statistical gradient-following algorithms for connectionist reinforcement learning, Machine Learning, vol. 8, no. 23, 1992](https://link.springer.com/content/pdf/10.1007%2FBF00992696.pdf)
 
+## Lecture Videos 
+
+- [D. Blei. Variational Inference: Foundations and Innovations](https://www.youtube.com/watch?v=Dv86zdWjJKQ)
+- [D. Blei. R. Ranganath, and S. Mohamed. Variational Inference: Foundations and Modern Methods (NIPS 2016)](https://www.youtube.com/watch?v=ogdv_6dbvVQ)
+- [R. Ranganath. Bayesian Deep Learning and Black Box Variational Inference (2017)](https://www.youtube.com/watch?v=cbC1M02BO8I)
+
 ## Courses 
 
 - [S. Mohamed. Variational Inference for Machine Learning (Tutorial)](https://www.shakirm.com/papers/VITutorial.pdf)
